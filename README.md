@@ -22,7 +22,7 @@ A Python script that generates strong, random passwords based on user input. Thi
     ```
 
 ## 🧠 How It Works (Logic)
-If you are looking at this code 3 months later, here is the logic breakdown:
+here is the logic breakdown:
 
 1.  **Input:** The script asks for a number (Length). It uses a `while` loop to ensure the input is actually a valid number.
 2.  **Ingredients:** It combines `ascii_letters` (A-z), `digits` (0-9), and `punctuation` (!@#) into one big list.
